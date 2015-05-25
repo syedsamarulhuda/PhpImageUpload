@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Syed\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Syed\PhpImageUpload\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-63e18cbda07edc61b0b03d06f7b0bfa8af0dcba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syed\PhpImageUpload\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="C:\Users\Syed\PhpImageUpload\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4-f21692f60104fded1cc3ea2ab78286065f74cd72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Syed\PhpImageUpload\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\19.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\Syed\PhpImageUpload\app\build\intermediates\pre-dexed\debug\classes-30843037e2bab9b103bb79908b16919ec7fb29ca.jar" />
+    </item>
+
+</items>
